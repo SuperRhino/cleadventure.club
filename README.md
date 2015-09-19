@@ -1,2 +1,1 @@
-# clefoodblog.com
-clefoodblog.com
+# cleadventure.club
